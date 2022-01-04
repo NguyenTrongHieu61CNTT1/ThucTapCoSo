@@ -1,0 +1,15 @@
+D:\TTCS\MusicPro\MusicPro\bin\Debug\MusicPro.exe.config
+D:\TTCS\MusicPro\MusicPro\bin\Debug\MusicPro.exe
+D:\TTCS\MusicPro\MusicPro\bin\Debug\MusicPro.pdb
+D:\TTCS\MusicPro\MusicPro\obj\Debug\MusicPro.csproj.AssemblyReference.cache
+D:\TTCS\MusicPro\MusicPro\obj\Debug\MusicPro.Form1.resources
+D:\TTCS\MusicPro\MusicPro\obj\Debug\MusicPro.Properties.Resources.resources
+D:\TTCS\MusicPro\MusicPro\obj\Debug\MusicPro.csproj.GenerateResource.cache
+D:\TTCS\MusicPro\MusicPro\obj\Debug\MusicPro.csproj.CoreCompileInputs.cache
+D:\TTCS\MusicPro\MusicPro\obj\Debug\MusicPro.exe
+D:\TTCS\MusicPro\MusicPro\obj\Debug\MusicPro.pdb
+D:\TTCS\MusicPro\MusicPro\bin\Debug\Interop.WMPLib.dll
+D:\TTCS\MusicPro\MusicPro\bin\Debug\AxInterop.WMPLib.dll
+D:\TTCS\MusicPro\MusicPro\obj\Debug\Interop.WMPLib.dll
+D:\TTCS\MusicPro\MusicPro\obj\Debug\AxInterop.WMPLib.dll
+D:\TTCS\MusicPro\MusicPro\obj\Debug\MusicPro.csproj.ResolveComReference.cache
